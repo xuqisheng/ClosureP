@@ -14,6 +14,34 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A1589FD81D220705006941B6"
+               BuildableName = "watchApp.app"
+               BlueprintName = "watchApp"
+               ReferencedContainer = "container:ClosureP.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A1589FE41D220705006941B6"
+               BuildableName = "watchApp Extension.appex"
+               BlueprintName = "watchApp Extension"
+               ReferencedContainer = "container:ClosureP.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "A1589F6C1D2204ED006941B6"
                BuildableName = "ClosureP.app"
                BlueprintName = "ClosureP"
@@ -28,33 +56,13 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A1589F801D2204EE006941B6"
-               BuildableName = "ClosurePTests.xctest"
-               BlueprintName = "ClosurePTests"
-               ReferencedContainer = "container:ClosureP.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A1589F8B1D2204EE006941B6"
-               BuildableName = "ClosurePUITests.xctest"
-               BlueprintName = "ClosurePUITests"
-               ReferencedContainer = "container:ClosureP.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A1589F6C1D2204ED006941B6"
-            BuildableName = "ClosureP.app"
-            BlueprintName = "ClosureP"
+            BlueprintIdentifier = "A1589FD81D220705006941B6"
+            BuildableName = "watchApp.app"
+            BlueprintName = "watchApp"
             ReferencedContainer = "container:ClosureP.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -71,16 +79,27 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/ClosureP">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A1589F6C1D2204ED006941B6"
-            BuildableName = "ClosureP.app"
-            BlueprintName = "ClosureP"
+            BlueprintIdentifier = "A1589FD81D220705006941B6"
+            BuildableName = "watchApp.app"
+            BlueprintName = "watchApp"
             ReferencedContainer = "container:ClosureP.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A1589FD81D220705006941B6"
+            BuildableName = "watchApp.app"
+            BlueprintName = "watchApp"
+            ReferencedContainer = "container:ClosureP.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -90,16 +109,27 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/ClosureP">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A1589F6C1D2204ED006941B6"
-            BuildableName = "ClosureP.app"
-            BlueprintName = "ClosureP"
+            BlueprintIdentifier = "A1589FD81D220705006941B6"
+            BuildableName = "watchApp.app"
+            BlueprintName = "watchApp"
             ReferencedContainer = "container:ClosureP.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A1589FD81D220705006941B6"
+            BuildableName = "watchApp.app"
+            BlueprintName = "watchApp"
+            ReferencedContainer = "container:ClosureP.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
