@@ -1,3 +1,3 @@
 # ClosureP
 swift networking framework
-在业务层这边，直接通过closure带起来。我还是喜欢RTNetworking里通过delegate将返回数据统一返回给业务
+
